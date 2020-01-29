@@ -70,11 +70,9 @@ html,body{
     }
     .flex-container > section{
         width:70%;
-        margin:1em;
+        margin:3em;
     }
-    .flex-container .content-1{
-        display: flex;
-    }
+   
     .nav-container ul{
         flex-direction: column;
         
